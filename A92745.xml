@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true declaration and just commendation of the great and incomparable care of the Right Honourable Isaac Pennington, Lord Major of the City of London, in advancing and promoting the bulwarkes and fortifications about the city and suburbs. With a vindication of His Honour from all the malicious aspersions of malignants. Published and presented to His Honour, by W. S.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92745</idno>
+            <idno type="STC">Wing S207</idno>
+            <idno type="STC">Thomason E99_27</idno>
+            <idno type="STC">ESTC R20463</idno>
+            <idno type="EEBO-CITATION">99864094</idno>
+            <idno type="PROQUEST">99864094</idno>
+            <idno type="VID">116313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116313)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true declaration and just commendation of the great and incomparable care of the Right Honourable Isaac Pennington, Lord Major of the City of London, in advancing and promoting the bulwarkes and fortifications about the city and suburbs. With a vindication of His Honour from all the malicious aspersions of malignants. Published and presented to His Honour, by W. S.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>[6], 10 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Harper, and are be sold at his shop in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Frontispiece: The true Portraiture of the Right Honourable Isaac Pennington, Lord Major of the City of London.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penington, Isaac, --  Sir, 1587?-1660 --  Early works to 1800.</term>
+               <term>London (England) --  Defenses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:116313:1"/>
+            <p>
+               <figure>
+                  <p>The true Portraiture of the Right Honourable ISAAC PENNINGTON, Lord Major of the City of London.</p>
+                  <figDesc>portrait of Isaac Pennington</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:116313:1" rendition="simple:additions"/>
+            <p>A TRVE DECLARATION And juſt COMMENDATION OF THE Great and Incomparable care of the Right Honourable ISAAC PENNINGTON, Lord Major of the City of LONDON, in advancing and promoting the Bulwarkes and Forti<g ref="char:EOLhyphen"/>fications about the City and Suburbs.</p>
+            <p>With a Vindication of his Honour from all the malicious aſperſions of Malignants.</p>
+            <q>
+               <l>Eſt major quam cui poſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ventoſa nocere</l>
+               <l>Turba malignorum —</l>
+            </q>
+            <p>Publiſhed, and preſented to his Honour, by <hi>W. S.</hi>
+            </p>
+            <p>London, Printed for <hi>R. Harper,</hi> and are to be ſold at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Shop in Smithfield, 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:116313:2"/>
+            <pb facs="tcp:116313:2"/>
+            <head>TO THE RIGHT HONOVRABLE <hi>Iſaack Pennington,</hi> Lord Major of the moſt Famous City of London.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Honor being the chiefeſt Treaſurer of the Weal-publicke of this City, I amongſt the ſubſcriptions and contri<g ref="char:EOLhyphen"/>butions of well affected perſons, have in this Booke, like the Widow, offered into your Treaſury but only two mites of Service and Duty, and for it doe moſt humbly pray your gracious favour, and your Honours good acceptance. I know it will appeare ſtrange unto ſome, who if they diſ<g ref="char:EOLhyphen"/>like my induſtry, and diſtaſte my zeale, I eſteem them on<g ref="char:EOLhyphen"/>ly <hi>tanquam pedarios ſenſores,</hi> trampling on the truth of the Cauſe, and carrying their eyes in their heeles, and not in their heads, kicking and ſpurning at all zealous and well affected Patriots. But thoſe malignant humours
+<pb facs="tcp:116313:3"/>are ſo farre from me, and my intents, that in publiſhing this booke, I have ſcattered abroad the fire of my zeale to ſhew it ſelfe in its owne ſhine, and placed my happineſſe in your Honours approving my endeavours. I have verily caſt into your Treaſury as much as I could, and for my part doe judge it every mans part to depart from all where hee oweth all that is for the good and ſafety of the Common<g ref="char:EOLhyphen"/>wealth and the City, which to advance your Honour hath, and doth moſt Religiouſly and ſtoutly endeavour. To this I can only adde my dayly prayers, and will ſtill power them forth to the God of all glory and mercy, that his manifold and dayly bleſsings may be multiplied upon your Honour, for your great viligilancy and care over this great City in theſe imminent times of Danger, while I deſire your ap<g ref="char:EOLhyphen"/>probation of this teſtimony of my zeale to your Honour, and preſume to ſubſcribe myſelfe, your Honours moſt humble ſervant,</p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116313:3"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE happy maintaining of truth in His Majeſties Dominions, is the great and moſt honourable employment of all Sub<g ref="char:EOLhyphen"/>jects, but eſpecially of thoſe unto whom the good of the Subject is in a more pecu<g ref="char:EOLhyphen"/>liar manner intruſted, that are ſo many <hi>Patres Patriae,</hi> ſo many Fathers of their Countrey to diſpoſe and defend the Rights, Priviledges, and Intereſts of their Countrey, and the liberties of the Subject; ſuch are the two honourable Houſes of Parliament, and all Magiſtrates who ought to comply with His Majeſty, ſo farre as His Majeſty doth comply with truth; and truth is defined to be <hi>conformitas rei cum intellectu,</hi> the con<g ref="char:EOLhyphen"/>formity of any thing with the underſtanding. Now in matters of Religion, the will of God is the object of the underſtanding, ſo that if the intellect or underſtanding be not rightly infor<g ref="char:EOLhyphen"/>med and conformed to Gods revealed will and word, that Re<g ref="char:EOLhyphen"/>ligion is falſe and erronious, and ſuch are the Idolatrous o<g ref="char:EOLhyphen"/>pinions of the Papiſts, being conformed only to the will of humane traditions and inventions, altogether repugnant to the Doctrine of Chriſt, and his Apoſtles.</p>
+            <p>And if the Delinquents who now ſwarme in Armes about the King, have by force and evill counſell raiſed an unhappy diviſion under fair pretences of Religion, which they intend to overthrow, and will maintaine Idolatry to be truth, the viola<g ref="char:EOLhyphen"/>tion of all Lawes divine and humane to be truth, <hi>ſint omnia protinus alba,</hi> let all things, even blacke it ſelfe be called white. But if theſe Delinquents, and Malignants did in the
+<pb n="2" facs="tcp:116313:4"/>firſt place ſow private ſeeds of diſſention betweene the King and His Parliament, <hi>&amp; in vulgus ſpargere ſemina,</hi> and after<g ref="char:EOLhyphen"/>ward diſperſt them amongſt the vulgar people; if they by pernicious counſell drew firſt His Majeſties affection, then His Perſon away from the Parliament, then banded themſelves in<g ref="char:EOLhyphen"/>to a great Army againſt the Parliament, againſt the Subject, and moſt eſpecially againſt the Proteſtant Religion, whoſe ruine they had formerly contrived; and finding that all their intenti<g ref="char:EOLhyphen"/>ons were by divine providence blowne away, like the vene<g ref="char:EOLhyphen"/>mous worke of the Spider, <hi>in publicum exitioſi, nihil ſpei, niſi per diſcordias habent, tamen, Deus &amp; Rex, &amp; pretioſa nomina praet exuntur,</hi> they are <hi>Tacitus</hi> his words with little alteration; theſe men deſtructive to the Common-wealth, had no hope to bring about their Idolatrous and wicked intents, but by pre<g ref="char:EOLhyphen"/>tending thoſe pretious names of God and the King, as ſtanding in their defence, when indeed they oppoſe both, ſeeing none can ſtand for God and the King truly and lawfully, unleſſe he ſtand alſo for the good of the Subject, of the maintenance of the Proteſtant Religion.</p>
+            <p>Truth doth not conſiſt in any duality of good and evill, of right and wrong, of reall and counterfeit, of verball and ſub<g ref="char:EOLhyphen"/>ſtantiall, but like a dye throwne by the hand of adverſity, or powerfull oppoſition doth alwaies ſet upon a ſquare, it is one and the ſame ſtill like it ſelfe, and therefore indeed it is good, becauſe it is alwaies one; thus with God who is all goodneſſe, there is no ſhadow of alteration or changing; but the Divel and his workes are <hi>multiplicia, fallacia,</hi> and therefore <hi>malignantia,</hi> ſo the malignants of theſe times give out that they fight for God, but indeed their meaning is fallacious, for they intend being delinquents to keepe themſelves from the cenſure of the Law, they would erect againe their ſuperſtitious Idolatry, and make the land groane againe under monopolies and arbitrary taxations, they would enjoy the liberty of their owne wicked diſſoluteneſſe, and would have no reformation of Religion, leſt
+<pb n="3" facs="tcp:116313:4"/>they ſhould be compelled to a conformation thereunto, and therefore ſtand neither for God nor the King, but for their own manifold private ends, and are malignants to God, the King, and the whole State of the Kingdome.</p>
+            <p>The queſtion being thus ſtated between the malignants, and thoſe who ſtand for the maintenance of the true Goſpel, and the King, as farre as he ſtands for the truth, and is conformable thereunto, it doth appeare how and by whom the Kingdome is now diſtracted, the truth ſheweth it ſelfe, we are conform<g ref="char:EOLhyphen"/>able to God, firſt ſeeking his glory, and then the honour of the King, who cannot be the Kinſt of malignants and true Prote<g ref="char:EOLhyphen"/>ſtants, and therefore we are true obedient ſubjects unto his Ma<g ref="char:EOLhyphen"/>jeſty, in endeavouring to divide thoſe evill counſellours from him, and to bring the King and his Subjects to a religious uni<g ref="char:EOLhyphen"/>ty conſiſting of many parts, as the Laws divine and humane, the juſt priviledge of the Subject, by a free and legall govern<g ref="char:EOLhyphen"/>ment, together with the priviledges of Parliament, all which theſe malignants endeavour utterly to ſubvert and deſtroy.</p>
+            <p>
+               <hi>Et ſi hoc in arido, quid in vindi?</hi> If this be done <hi>(ex facto)</hi> by the children of this world unto an evill and malignant end, may not his Majeſties great Councell the Parliament <hi>(fas eſt ab ho<g ref="char:EOLhyphen"/>ſte doceri) (ex jure)</hi> for the undoubted good of the children of light, and the honour of his Majeſty, defend the true Prote<g ref="char:EOLhyphen"/>ſtant Religion, the Kings lawfull Power, the juſt liberties of the Subject, and the priviledges of Parliament, and may not Magiſtrates (your Honour being the chiefe moderator and go<g ref="char:EOLhyphen"/>vernour of this honourable City) comply with the Parliament, in ſtanding for the glory of God, the defence of the King, and the maintenance of divine and humane Rights.</p>
+            <p>It is moſt certaine, that this honourable Citie of London, though much diſtracted and diſquieted, hath in her greateſt feares and jealouſies, <hi>Anchora fluctuanti Civitati,</hi> the Anchor of your Honours wiſedome to keep the Citie, though toſt on the waves of diſſention, faſt to the faith of Chriſt, <hi>alter &amp; opti<g ref="char:EOLhyphen"/>mus
+<pb n="4" facs="tcp:116313:5"/>Tiphis,</hi> another and an excellent governour, and chief Ma<g ref="char:EOLhyphen"/>ſter of the Cities ſhip; ſo that as <hi>Lelius</hi> for wiſedome, <hi>Metellus</hi> for piety, <hi>Ariſtides</hi> for juſtice, were all commended in Roman Hiſtories: ſo the ancient images of excellent men, were but pa<g ref="char:EOLhyphen"/>ternes and reſemblances of mans contracted and compleat ver<g ref="char:EOLhyphen"/>tues united in your Honour, being the <hi>Atlas</hi> of the Citie, bea<g ref="char:EOLhyphen"/>ring the weight and management of all civill affaires on your Honours ſhoulders: And therefore, though magnanimity on<g ref="char:EOLhyphen"/>ly was attributed to <hi>Cyrus,</hi> onely modeſty to <hi>Ageſilaus,</hi> onely wiſedome to <hi>Themiſtocles,</hi> skill to <hi>Philip,</hi> and boldneſſe to <hi>Braſi<g ref="char:EOLhyphen"/>dus;</hi> yet <hi>Alexander,</hi> as <hi>Plutarch</hi> reporteth, was furniſhed and full fraught with all theſe: So your honourable Lordſhip is known to be magnanimous, in ſtanding for the defence of the true religion, modeſt and courteous towards delinquents and offenders, mercifull and compaſſionate to the diſtreſſed, wiſe and judicious both in politicke and divine matters, and coura<g ref="char:EOLhyphen"/>giouſly bold, maugre all oppoſition, to ſtand in defence of the true Proteſtant Religion, &amp; the policie of the Citie wherof you are the governour, and not only <hi>Major,</hi> but <hi>Optimus;</hi> and yet ſuch is your Honours magnanimous patience, that you are put or di<g ref="char:EOLhyphen"/>verted from your reſolutions, by the left handed and popular voice, your honour can, as <hi>Tacitus</hi> ſaith, <hi>aequo animo laceratam ferre exiſtimationem,</hi> your Honour can oppoſe the malignitie of the times with an invincible patience and magnanimity, knowing that the aim of your deſires is the truth and glory of God.</p>
+            <p>But what doe I ſpeake of paſſive vertue? Your actions car<g ref="char:EOLhyphen"/>ry in them the moſt lively portraiture of an able, honeſt minde: and though your Honour may thinke, <hi>nec ille te novit, qui lau<g ref="char:EOLhyphen"/>davit, nec tu illum,</hi> yet we ſhould be all aſhamed, <hi>quaſi canes, la<g ref="char:EOLhyphen"/>tratu accipere quem non agnoſcimus,</hi> to bark at thoſe we doe not know; yet what Schollar, nay, what Plebeian can bee ignorant of your great care and vigilancie for the Citie: for though they watch in vain, if God keep not the Citie, yet the eyes of the
+<pb n="5" facs="tcp:116313:5"/>Cities have been infallible witneſſes of your good propenſion and inclination to the ſafety of the Citie; ſo that wee may ſay, Come and ſee the legible characters of the honourable Maiors fidelity, love and loyalty to the Citie, in taking order, by di<g ref="char:EOLhyphen"/>rection from the great Councell of the Honourable Parlia<g ref="char:EOLhyphen"/>ment, for the building of thoſe great, ſtrong, and ſerviceable fortifications neere and about the Citie of London, <hi>Speque, fi<g ref="char:EOLhyphen"/>deque inquit Majora videbis.</hi> The Proteſtant faith, and the goodneſſe of the cauſe now undertaken, promiſeth greater workes: For,</p>
+            <q>Cauſa jubet ſuperos meliora ſperare ſecundas.</q>
+            <p>And here I wiſh that I had as many eyes as <hi>Argus,</hi> to diſco<g ref="char:EOLhyphen"/>ver the great coſt beſtowed upon theſe workes; they are raiſed to a great height, according to the beſt advantages of Geome<g ref="char:EOLhyphen"/>tricall proportions, there is earth heaped upon earth, compa<g ref="char:EOLhyphen"/>cted together according to the dimenſions of Art: ſo that eve<g ref="char:EOLhyphen"/>ry Fortification, <hi>pondere tuta ſuo eſt,</hi> is ſtrong by the weight and worth of the work. My Lord, I will not here ſet before you the abſolute Modell of theſe fortifications, which are well e<g ref="char:EOLhyphen"/>nough knowne unto your Lordſhip, and how many emergent reaſons to magnifie and praiſe your Lordſhip for your fideli<g ref="char:EOLhyphen"/>ous care of the City. My Lord, actions are acknowledged to be the eſſence of vertue wherein it conſiſts, theſe workes pro<g ref="char:EOLhyphen"/>ceed from the mighty working of Gods Spirit in your heart, from your piety and conſtant reſolution to defend the Prote<g ref="char:EOLhyphen"/>ſtant Religion, and your conſtancie in oppoſing thoſe malig<g ref="char:EOLhyphen"/>nants that would deſtroy the King, the Kingdome, and the Par<g ref="char:EOLhyphen"/>liament, your Honour, nay all the Citie, if they could get ac<g ref="char:EOLhyphen"/>ceſſe, or make an in rode thereinto.</p>
+            <p>But your Honour hath in theſe dangerous times, when ruine and deſtruction doth threaten the Kingdome, and eſpecially the Citie, when the true Proteſtant Religion is deſerted by ma<g ref="char:EOLhyphen"/>ny, and ſcandalized by other Malignants, your Honour doth not reſpect the oppoſition of Man, though dreſſed with
+<pb n="6" facs="tcp:116313:6"/>the flouriſh and pomp of Majeſticall words; and yet herein lies your greateſt, that you aſcribe all praiſe unto God the Lord of Hoaſts, which worketh with wonderfull wiſedome, and bringeth excellent things to paſſe. Religion is not unlike the ſoule in the body of man: for in the whole Common-wealth it is or ſhould be wholly and every part thereof, <hi>tota in toto &amp; tota in qualibet parte:</hi> it hath ſhewed your Honour the way for common good, and it ſhould direct all the parts of the Common-wealth to bee compliable for the good of the Com<g ref="char:EOLhyphen"/>mon-wealth, and not to hang backward when any matter of coſt or charge propounded for the defence and fortification of the Citie: for all ſuch are <hi>Hoſtes intra muros,</hi> enemies within the walls.</p>
+            <p>Every Magiſtrate, eſpecially Maiors of Cities, are to reduce the Citie into one Monarchicall government, to take care of it, <hi>pace quam bello,</hi> for a wiſe man is a rich man, a very King and an Emperour, and ought to take care of the people under his charge, as if the King himſelfe were preſent: For Monarchy hath ſeverall parts ſubordinate thereunto, whoſe ends are the ſame, namely, to diſtribute juſtice, both in reward and puniſh<g ref="char:EOLhyphen"/>ment, unto the deſerving; to ſee the Lawes executed, and by them to keep the ſubject from wrong or moleſtation: But if Lawes are ſilent, and a Citie, as this of London, be threatned by a malignant party, as it is now, ſo that <hi>En &amp; ecce venit Rex cum ſiccariis,</hi> behold the King and his Cavaliers are comming, is the daily voice and imagination of the people: then the Maior, as your Honour hath moſt piouſly done, ought to fortifie the walls of Jeruſalem, to look that ſtrength may bee provided to oppoſe the enemy: And herein your care and vigilancy have declared themſelves. Your Honour hath heard how other Cities and great Townes have been plundered by the ma<g ref="char:EOLhyphen"/>lignant party, and how earneſtly they demonſtrate their cruel<g ref="char:EOLhyphen"/>ty upon the famous City of London; but your Honour hath taken advice of the Parliament, a way to oblige poſterity unto
+<pb n="7" facs="tcp:116313:6"/>your Honour: For though we have indeed none that fighteth for us, but thou, O God, yet theſe Bulworkes and Fortificati<g ref="char:EOLhyphen"/>ons made round about the Citie, ſhall glorifie your Name to poſterity, ſhall make your honour to bee accounted the Defen<g ref="char:EOLhyphen"/>der of true Religion, and the preſerver of the whole body of this Citie; Men, women and children, ſhall and are glad to ſee ſuch fortifications raiſed for the defence of the Citie, and doe bleſſe your Honour for your great care of the City.</p>
+            <p>The Sleepers in <hi>Sardos (Ariſt. Phyſ.)</hi> when they awaked, thought they had paſſed no time; but we ſhall be more drow<g ref="char:EOLhyphen"/>ſie and ſottiſh then they, if wee now open not our eyes to ac<g ref="char:EOLhyphen"/>knowledge how happy wee are in your Lordſhips care and vi<g ref="char:EOLhyphen"/>gilancy over the Citie; and therefore I may ſay by a Britiſh <hi>Palingeneſia,</hi> as <hi>Hypolitus</hi> was called <hi>Virbius,</hi> ſo your Honour may be ſtiled, <hi>Londini civitatis Vlyſſes, Themiſtocles,</hi> or by any other name famous for loving and providing for the ſecuritie and ſafety of the City wherein they were governours. The Ci<g ref="char:EOLhyphen"/>tie doth acknowledge it ſelfe to have been happy in many great Benefactors, ſome whereof have erected Schooles, and endow<g ref="char:EOLhyphen"/>ed them for the propagation of good literature: Others have made their bounty flow out of Aquaducts and Conduits. Some have founded Hoſpitalls for maimed impotent people, and given them large revenews; but what hath their ends of their actions been? To be accounted famous and munificent, hiding their ſins under the roof of an hoſpitall; and it may be, theſe great and glorious workes were but <hi>ſplendida peccata,</hi> ſhi<g ref="char:EOLhyphen"/>ning ſinnes. But your Lordſhip moved onely with a right god<g ref="char:EOLhyphen"/>ly affection to the cauſe of Religion, hath provided for the ſafe<g ref="char:EOLhyphen"/>ty and protection of this honourable Citie of London: Theſe out-workes ſpeak your love to the Cities good and preſervati<g ref="char:EOLhyphen"/>on, to the true eſſence of Religion, to the Parliament and the whole Kingdome and Eſtate, ſo that it may be ſaid:</p>
+            <q>
+               <l>Major es quam cui poſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it maligna n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cere,</l>
+               <l>Turba—</l>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:116313:7"/>
+               <hi>Xenophon</hi> calleth Magiſtrates the Kings eyes, the Kings cares, ſhoulders, feet and hands; not becauſe they ſhould ſee nothing but what the King pleaſes, and like and approve of that, or that they ſhould heare nothing but the evill counſell of malignants, or that they ſhould catch and ſnatch one from the other, or carry fire in the one hand, and water in the other; or with the one to offer a gift, and with the other a ſtab to whom the King pleaſes, <hi>altera manu panem, altera lapidem;</hi> but that Magiſtrates eyes, eares, ſhoulders, feet and hands, ſhould be mutuall helpers one to the other, for the common good and publicke ſervice of the whole State; and herein your Honour hath ſhewed your ſelfe an excellent Magiſtrate, complying with the Parliament in all matters that concerne the publicke adminiſtration of the Common-weale; ſo that you have lookt upon the preſent ſtate of this Citie and Religion, with the cleare eye of juſtice; you have heard of the great preſſures which the countrey hath en<g ref="char:EOLhyphen"/>dured by the cruelty of the Cavaliers; you have to the diſcou<g ref="char:EOLhyphen"/>ragement of malignants, on the ſhoulders of fortitude, bore and ſuffered their falſe aſperſions, and <hi>aequo animo lacer atam ferre ex<g ref="char:EOLhyphen"/>iſtimationens,</hi> is as <hi>Tacitus</hi> ſaith, the true note and property of a wiſe man; and your honour hath in your preſent Magiſtra<g ref="char:EOLhyphen"/>cie walked uprightly, having clean and pure hands; nay, ſtrong hands: for your Honour hath been the chiefeſt raiſer and pro<g ref="char:EOLhyphen"/>moter of the workes and fortifications round about the Citie of London; you ſaw the times were dangerous, and that the Kings Cavaliers g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped after nothing more then to get London, and make it a prey to the ſupplying of their neceſſities. This made the Parliament and your Lordſhip to take order for the fortification of the Citie, to prevent the malice of our enemies, who marching under the name of the King, would deſtroy both the Citie and the Kingdome.</p>
+            <p>Nature witty in policie, hath given to all creatures a naturall inſtinct to fortifie and preſerve themſelves, <hi>ad conſervationem ſpecierum,</hi> the earth hath mountaines to keep off the fierce in<g ref="char:EOLhyphen"/>vaſions
+<pb n="9" facs="tcp:116313:7"/>of the North wind, the Heavens are fortified <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſo that no malignant vapours can aſcend higher then the mi<g ref="char:EOLhyphen"/>dle region, and man is fortified by his inward vertues and ſpi<g ref="char:EOLhyphen"/>rituall graces, <hi>nurus adherens eſto uil conſoire ſibi,</hi> your Lord<g ref="char:EOLhyphen"/>ſhip is thus fortified in your owne perſon, but this City which is the heart of the Kingdome is by your Lordſhips care and vi<g ref="char:EOLhyphen"/>gilancy fortified with warlike workes, whereby your great care and love to the City doth moſt evidently appeare.</p>
+            <p>Even from the beginning of this cruell Civill Warre, your Honour being armed with the compleat armour of Righteouſ<g ref="char:EOLhyphen"/>neſſe, have cheerfully ſtood in defence of the City, and the true Proteſtant Religion, and the whole State, wherein the Parliament and your Honour have procceded with an invin<g ref="char:EOLhyphen"/>cible conſtancie and magnanimity, for <hi>in magnis rebus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nun<g ref="char:EOLhyphen"/>quam tentes aut perfice,</hi> matters of State are not ſlightly to be intended but perfected, and I beleeve that all the honourable Members of the Houſes thinke every one of themſelves are employed, <hi>conſulere de Religione, &amp; incommunem <gap reason="illegible" resp="#PDCC" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ſa<g ref="char:EOLhyphen"/>lutem,</hi> and how can this be better manifeſted then by fortify<g ref="char:EOLhyphen"/>ing the City on every ſide with Bulwarks and fortifications? and it is the Cities happineſſe now it theſe great times of dan<g ref="char:EOLhyphen"/>ger, that the Parliament and your Honour have ſo carefully pro<g ref="char:EOLhyphen"/>vided for the Cities ſafety, which thing pleaſed wel <hi>Marcus Fu<g ref="char:EOLhyphen"/>rius Camillus</hi> Dictator of Rome, who ſeeing all the Senate and Subjects of Rome, not onely accord in the common execution of each office for common good of all, but willingly and lo<g ref="char:EOLhyphen"/>vingly both higheſt and meaneſt to provide for the ſecurity of the City, which he ſaid was happy; <hi>ſi tales vires in Magiſtratu habeat in ſalutem Civitatis tam concordibus junctos animis:</hi> the ſaying of <hi>Camillus</hi> is now verified concerning the City of Lon<g ref="char:EOLhyphen"/>don; the Parliament and your Honour, together with all well affected Subjects in the City, have complied together to forti<g ref="char:EOLhyphen"/>fie this famous City from the imminent danger of the enemy, and more eſpecially the City muſt looke on your Honour as
+<pb n="10" facs="tcp:116313:8"/>the <hi>rationale propugnaculum Civitatis,</hi> who by counſell, advice and wiſdome, are a rationall fortification to this City, defen<g ref="char:EOLhyphen"/>ding it by your piety, and true profeſſion of the Goſpel, for God often paſſeth over the puniſhment of the wicked for the righteous ſake; and moreover you have, together with the Parliament, provided for the generall ſecurity of the City, that children which ſhall be borne hereafter, may as ſoone as they get their tongues pray for your Honour: for ſhould the enemy get entrance into this City, there would be nothing but ruine and deſolation in the ſtreets thereof, while men, women and children were ſacrificed to the fury of the ſword: your Honour therefore deſerveth the Cities unfained approbation and praiſe for raiſing and advancing thoſe praiſe-worthy workes, and for<g ref="char:EOLhyphen"/>tifications round about the City of London; if they regard their children, wives, or any thing that is deare unto them, they muſt bleſſe your Lordſhip, who by your pious proviſion for the City, and your pious profeſſion of the true Proteſtant Religion, doe ſhine like the Sunne in his ſphere of the City, and are therein the high treaſurer of the Weale-publicke, your au<g ref="char:EOLhyphen"/>thority being beautified with juſtice in executing Lawes, with wiſdome for determining right, with mercy and compaſſion for releeving the diſtreſſed, and this is the glorious abundant treaſure of your honourable minde, which God hath fortified with graces, and illuminated with underſtanding for the com<g ref="char:EOLhyphen"/>mon good and benefit of this honourable City.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
